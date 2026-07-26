@@ -1,1 +1,1 @@
-idk
+get the code from MendaBlox.py and paste it on pydroid3 
